@@ -16,7 +16,7 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a image you
  * freely use on your site.
  */
-import image from "../images/motion-background.jpg";
+import image from "../images/funk-3.jpg";
 
 const imageAltText = "purple and blue abstract background";
 
@@ -24,7 +24,7 @@ const imageAltText = "purple and blue abstract background";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.";
+  "I'm a 3rd year engineering student studying at Fr. Conceicao Rodrigues College of Engineering. I enjoy creating Full Stack WebApps and Working on AI projects.";
 
 /**
  * List of some of skills or technologies you work on, are learning,
@@ -37,6 +37,9 @@ const skillsList = [
   "Focus group testing",
   "Mobile user interfaces",
   "Graphic design",
+  "Machine learning",
+  "Competitive programming",
+  "Full stack web development"
 ];
 
 /**
